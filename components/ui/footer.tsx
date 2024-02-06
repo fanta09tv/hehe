@@ -45,7 +45,7 @@ export default function Footer() {
                 <a className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">@sohyeon</a>
               </li>
               <li className="mb-2">
-                <a className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">@boja_jeje</a>
+                <a className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">@norhu1130</a>
               </li>
             </ul>
           </div>
