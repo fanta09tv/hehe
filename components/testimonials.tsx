@@ -51,7 +51,7 @@ export default function Testimonials() {
 
             {/* Item */}
             <div className="flex items-center justify-center py-2 col-span-2 md:col-auto">
-              <img src="https://media.discordapp.net/attachments/1113811671807447142/1135809401727484004/image.png"></img>
+              <img src="https://media.discordapp.net/attachments/1146350718492606525/1204430601273483304/image.png"></img>
             </div>
 
             {/* Item */}
