@@ -27,7 +27,7 @@ export default function Testimonials() {
 
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-16">
-            <h2 className="h2 mb-4">2만명이 넘는 사용자들과<br></br>2000개의 서버에서 사용되는 발로봇!</h2>
+            <h2 className="h2 mb-4">8만명이 넘는 사용자들과<br></br>7000개 이상의 서버에서 사용되는 발로봇!</h2>
             <p className="text-xl text-gray-600" data-aos="zoom-y-out">다양한 사람들과 함께 발로봇을 즐겨보는건 어때요?</p>
           </div>
 
