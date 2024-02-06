@@ -24,8 +24,8 @@ export default function discord() {
             <h4 className="h4">// doubleslash</h4>
             <h5 className="h5">봇 인증 노하우와 봇 피드백 -{">"} @22_by</h5>
             <h4 className="h4">ﾠﾠ</h4>
-            <h4 className="h4">밝은검정이</h4>
-            <h5 className="h5">좀 모자라긴 해도 초창기 홍보 -{">"} @boja_jeje</h5>
+            <h4 className="h4">LIGHTBLACK</h4>
+            <h5 className="h5">좀 모자라긴 해도 초창기 홍보 -{">"} @light_black1</h5>
             <h4 className="h4">ﾠﾠ</h4>
           </div>
 
