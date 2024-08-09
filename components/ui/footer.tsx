@@ -81,7 +81,7 @@ export default function Footer() {
           </ul>
 
           {/* Copyrights note */}
-          <div className="text-sm text-gray-600 mr-4">&copy; 2023 TEAM DoubleEight, All rights reserved. | <strong>발로봇은</strong> Team DoubleEight의 소중한 자산입니다.</div>
+          <div className="text-sm text-gray-600 mr-4">&copy; 2022~2024 TEAM DoubleEight, All rights reserved. | <strong>발로봇은</strong> Team DoubleEight의 소중한 자산입니다.</div>
 
         </div>
 

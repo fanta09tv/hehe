@@ -27,7 +27,7 @@ export default function Testimonials() {
 
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-16">
-            <h2 className="h2 mb-4">8만명이 넘는 사용자들과<br></br>7000개 이상의 서버에서 사용되는 발로봇!</h2>
+            <h2 className="h2 mb-4">수만명이 넘는 사용자들과<br></br>약 <strong>20000개</strong> 서버에서 사용되는 발로봇!</h2>
             <p className="text-xl text-gray-600" data-aos="zoom-y-out">다양한 사람들과 함께 발로봇을 즐겨보는건 어때요?</p>
           </div>
 
@@ -41,17 +41,17 @@ export default function Testimonials() {
 
             {/* Item */}
             <div className="flex items-center justify-center py-2 col-span-2 md:col-auto">
-              <img src="https://media.discordapp.net/attachments/1113811671807447142/1135826026010779668/image.png"></img>
+              <img src="https://media.discordapp.net/attachments/1151062950539427861/1270980344362962954/image.png?ex=66b5ac2f&is=66b45aaf&hm=46207e4586553dd406a7ffd57105bbc6ffddc9d0ed4c81bf2927743f00309bec&=&format=webp&quality=lossless&width=477&height=157"></img>
             </div>
 
             {/* Item */}
             <div className="flex items-center justify-center py-2 col-span-2 md:col-auto">
-              <img src="https://media.discordapp.net/attachments/1113811671807447142/1135809102191276113/image.png"></img>
+              <img src="https://media.discordapp.net/attachments/1151062950539427861/1270980361341370439/image.png?ex=66b5ac33&is=66b45ab3&hm=1b7fdff2658cea53ac3a8d30f6a9790eea49d41332045cd06c08c2b1579e3176&=&format=webp&quality=lossless&width=477&height=157"></img>
             </div>
 
             {/* Item */}
             <div className="flex items-center justify-center py-2 col-span-2 md:col-auto">
-              <img src="https://media.discordapp.net/attachments/1146350718492606525/1204430601273483304/image.png"></img>
+              <img src="https://media.discordapp.net/attachments/1151062950539427861/1270980369730113629/image.png?ex=66b5ac35&is=66b45ab5&hm=4594a8defb74979bf553706f3ef043473a21054bf739d28c86b4c5fbb8faca92&=&format=webp&quality=lossless&width=477&height=1577"></img>
             </div>
 
             {/* Item */}
@@ -74,7 +74,7 @@ export default function Testimonials() {
                   <Image className="relative rounded-full" src={TestimonialImage} width={96} height={96} alt="Logo" />
                 </div>
                 <blockquote className="text-xl font-medium mb-4">
-                  “ 디팔 선정 한국인이라면 무조건 사용해야할 봇 3위에 선정되었고 참 유용한<br></br>봇입니다. 여러분들도 발로봇과 함께 행복한 발로란트 생활을 즐기세요! “
+                  “ 디팔 선정 한국인이 지금 바로 써야할 봇 1위에 당당히 올라간 봇!<br></br>여러분들도 발로봇과 함께 행복한 발로란트 생활을 즐기세요! “
                 </blockquote>
                 <cite className="block font-bold text-lg not-italic mb-1">DoubleEight</cite>
                 <div className="text-gray-600">

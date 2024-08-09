@@ -3,7 +3,7 @@
 import { useState, useRef, useEffect } from 'react'
 import { Transition } from '@headlessui/react'
 import Image from 'next/image'
-import FeaturesBg from '@/public/images/features-bg.png'
+import FeaturesBg from '@/public/images/hehe.png'
 import bg2 from '@/public/images/bg2.png'
 import bg3 from '@/public/images/bg3.png'
 import FeaturesElement from '@/public/images/features-element.png'
@@ -34,7 +34,7 @@ export default function Features() {
 
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-16">
-            <h1 className="h2 mb-4">다양한 기능들을 즐겨보세요</h1>
+            <h1 className="h2 mb-4">발로봇의 다양한 기능들을 즐겨보세요</h1>
             <p className="text-xl text-gray-600">오직 당신만을 위해 준비한 발로봇의 다양한 명령어들을 어디서나 만나보세요.</p>
           </div>
 
@@ -44,8 +44,8 @@ export default function Features() {
             {/* Content */}
             <div className="max-w-xl md:max-w-none md:w-full mx-auto md:col-span-7 lg:col-span-6 md:mt-6" data-aos="fade-right">
               <div className="md:pr-4 lg:pr-12 xl:pr-16 mb-8">
-                <h3 className="h3 mb-3">쉽지만 유용한 명령어들</h3>
-                <p className="text-xl text-gray-600">발로봇의 명령어들은 쉽고 간결해 누구나 쓸 수 있고,<br></br>또한 강력하고 그만큼 쓸모있는 명령어들입니다.</p>
+                <h3 className="h3 mb-3">쉽고 편리한 명령어들</h3>
+                <p className="text-xl text-gray-600">발로봇의 명령어들은 쉽고 간결해 누구나 쓸 수 있고,<br></br>또한 강력하고 여러분들에게 편리한 명령어들입니다.</p>
               </div>
               {/* Tabs buttons */}
               <div className="mb-8 md:mb-0">
@@ -85,8 +85,8 @@ export default function Features() {
                   onClick={(e) => { e.preventDefault(); setTab(3); }}
                 >
                   <div>
-                    <div className="font-bold leading-snug tracking-tight mb-1">일일/주간 미션 확인하기</div>
-                    <div className="text-gray-600">이 외에도 VP,RP확인하기, 알림 설정, 배틀패스 확인하기 등등 많은 기능들이 발로봇에 있습니다!</div>
+                    <div className="font-bold leading-snug tracking-tight mb-1">내 보유 스킨 확인하기</div>
+                    <div className="text-gray-600">여러분이 보유한 총과 칼 스킨들을 한번에 확인해보세요! 유료 스킨 뿐만 아니라 배틀패스 스킨까지<br></br>지금 바로 간편하게 확인하세요.</div>
                   </div>
                   <div className="flex justify-center items-center w-8 h-8 bg-white rounded-full shadow flex-shrink-0 ml-3">
                     <svg className="w-3 h-3 fill-current" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">

@@ -29,7 +29,7 @@ export default function Hero() {
 
           {/* Section header */}
           <div className="text-center pb-12 md:pb-16">
-            <h1 className="text-5xl md:text-6xl font-extrabold leading-tighter tracking-tighter mb-4" data-aos="zoom-y-out">ﾠﾠ발로봇으로 이전과 다른ﾠﾠ<span className="bg-clip-text text-transparent bg-gradient-to-r from-blue-500 to-teal-400">새로운 발로란트를 즐겨라!</span></h1>
+            <h1 className="text-5xl md:text-6xl font-extrabold leading-tighter tracking-tighter mb-4" data-aos="zoom-y-out">발로봇과 함께 이전과는 다른<span className="bg-clip-text text-transparent bg-gradient-to-r from-blue-500 to-teal-400">새로운 발로란트를 즐겨라!</span></h1>
             <div className="max-w-3xl mx-auto">
               <p className="text-xl text-gray-600 mb-8" data-aos="zoom-y-out" data-aos-delay="150">한국인들을 위한 발로란트 봇인 발로봇으로 더욱 편리해진 발로란트를 즐겨보세요!</p>
               <div className="max-w-xs mx-auto sm:max-w-none sm:flex sm:justify-center" data-aos="zoom-y-out" data-aos-delay="300">

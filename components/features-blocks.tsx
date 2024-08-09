@@ -12,7 +12,7 @@ export default function FeaturesBlocks() {
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-20">
             <h2 className="h2 mb-4">왜 발로봇일까요?</h2>
-            <p className="text-xl text-gray-600">수많은 발로란트 봇들이 있는데, 왜 하필 발로봇을 써야 할까요?</p>
+            <p className="text-xl text-gray-600">당신에게 딱 필요한 것들만 모아놓은 최고의 봇이니깐요. 👍</p>
           </div>
 
           {/* Items */}
@@ -47,8 +47,8 @@ export default function FeaturesBlocks() {
                   </g>
                 </g>
               </svg>
-              <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">EZ but Modern</h4>
-              <p className="text-gray-600 text-center">사용자들이 사용하기에 쉽고 간결한<br></br>명령어들과 엠베드를 사용하고 있습니다..</p>
+              <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">간결하지만 편리한</h4>
+              <p className="text-gray-600 text-center">명령어 사용은 간편하지만,<br></br>더욱 편리한 명령어들로 즐겨보세요.</p>
             </div>
 
             {/* 3rd item */}
@@ -64,8 +64,8 @@ export default function FeaturesBlocks() {
                   </g>
                 </g>
               </svg>
-              <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">VBAS 2.0</h4>
-              <p className="text-gray-600 text-center">자체제작한 VBAS 2.0으로 이전과 다르게<br></br>더욱더 편리한 발로봇을 즐기세요.</p>
+              <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">VBAS 2.0 시스템</h4>
+              <p className="text-gray-600 text-center">자체제작한 VBAS 2.0 시스템으로 이전과 다르게<br></br>더욱더 편리한 발로봇을 즐기세요.</p>
             </div>
 
             {/* 4th item */}
@@ -81,8 +81,8 @@ export default function FeaturesBlocks() {
                   </g>
                 </g>
               </svg>
-              <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">한국어</h4>
-              <p className="text-gray-600 text-center">발로봇은 언어의 벽을 깨기 위해 복잡한<br></br>외국어 대신 쉬운 한국어를 사용중입니다.</p>
+              <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">한국어 지원</h4>
+              <p className="text-gray-600 text-center">언어의 장벽을 깬 발로봇!<br></br>한국어 지원을 통해 더욱 손쉽게 사용해보세요.</p>
             </div>
 
             {/* 5th item */}
@@ -97,8 +97,8 @@ export default function FeaturesBlocks() {
                   </g>
                 </g>
               </svg>
-              <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">빠른 속도</h4>
-              <p className="text-gray-600 text-center">Python 3.11버전으로 더 빨라진 속도를<br></br>경험해 보실 수 있습니다.</p>
+              <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">더욱 빠른 속도</h4>
+              <p className="text-gray-600 text-center">Python 3.11과 발로봇 전용 서버로<br></br>더욱 빠른 속도를 경험해 보실 수 있어요.</p>
             </div>
 
             {/* 6th item */}
@@ -112,8 +112,8 @@ export default function FeaturesBlocks() {
                   </g>
                 </g>
               </svg>
-              <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">보안</h4>
-              <p className="text-gray-600 text-center">여러분의 소중한 개인정보를 DB에서<br></br>안전하게 보호하고 있습니다.</p>
+              <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">강력한 보안</h4>
+              <p className="text-gray-600 text-center">여러분들의 소중한 개인정보들을 DB에서<br></br>안전하게 관리하고 보호하고 있어요.</p>
             </div>
 
           </div>

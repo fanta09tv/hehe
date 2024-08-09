@@ -1,7 +1,7 @@
 'use client'
-
+import Image from 'next/image'
 import { useState } from 'react'
-
+import TestimonialImage from '@/public/images/lol.png'
 export default function Banner() {
 
   const [bannerOpen, setBannerOpen] = useState<boolean>(true)
@@ -11,7 +11,7 @@ export default function Banner() {
       {bannerOpen && (
         <div className="fixed bottom-0 right-0 w-full md:bottom-8 md:right-12 md:w-auto z-50">
           <div className="bg-slate-800 text-slate-50 text-sm p-3 md:rounded shadow-lg flex justify-between">
-            <img  src="https://media.discordapp.net/attachments/1096063279329189908/1136196100265623643/dd.png"></img>
+            <Image src={TestimonialImage} width={345} height={174} alt="Banner" />
             <button className="text-slate-500 hover:text-slate-400 pl-2 ml-3 border-l border-gray-700" onClick={() => setBannerOpen(false)}>
               <span className="sr-only">닫기</span>
               <svg className="w-4 h-4 shrink-0 fill-current" viewBox="0 0 16 16">
