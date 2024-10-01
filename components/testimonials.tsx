@@ -39,20 +39,7 @@ export default function Testimonials() {
               <img src=" "></img>
             </div>
 
-            {/* Item */}
-            <div className="flex items-center justify-center py-2 col-span-2 md:col-auto">
-              <img src="https://media.discordapp.net/attachments/1151062950539427861/1283344911332151346/a.png?ex=66f91116&is=66f7bf96&hm=71ce1d9823c809b2c9c9fdae07f2a92d977efa8d2bdd5900df45b4aba08d42b6&=&format=webp&quality=lossless&width=245&height=91"></img>
-            </div>
 
-            {/* Item */}
-            <div className="flex items-center justify-center py-2 col-span-2 md:col-auto">
-              <img src="https://media.discordapp.net/attachments/1151062950539427861/1283344911332151346/a.png?ex=66f91116&is=66f7bf96&hm=71ce1d9823c809b2c9c9fdae07f2a92d977efa8d2bdd5900df45b4aba08d42b6&=&format=webp&quality=lossless&width=245&height=91"></img>
-            </div>
-
-            {/* Item */}
-            <div className="flex items-center justify-center py-2 col-span-2 md:col-auto">
-              <img src="https://media.discordapp.net/attachments/1151062950539427861/1283344911332151346/a.png?ex=66f91116&is=66f7bf96&hm=71ce1d9823c809b2c9c9fdae07f2a92d977efa8d2bdd5900df45b4aba08d42b6&=&format=webp&quality=lossless&width=245&height=91"></img>
-            </div>
 
             {/* Item */}
             <div className="flex items-center justify-center py-2 col-span-2 md:col-auto">
