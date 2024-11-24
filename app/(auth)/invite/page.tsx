@@ -8,7 +8,7 @@ export default function discord() {
 
     useEffect(()=>{
         setTimeout(()=>{
-            rounter.push('https://discord.com/oauth2/authorize?client_id=1040206071417012234&permissions=8&scope=bot')
+            rounter.push('https://discord.com/oauth2/authorize?client_id=1299774023822999612&permissions=8&scope=bot')
         },3000)
     },[]);
   return (
